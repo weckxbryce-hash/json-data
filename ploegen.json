@@ -1,0 +1,83 @@
+[
+
+  {
+
+    "id": 1,
+
+    "club": "KRC Genk",
+
+    "sport": "Voetbal",
+
+    "stad": "Genk",
+
+    "opgericht": 1988,
+
+    "aantal_leden": 25000
+
+  },
+
+  {
+
+    "id": 2,
+
+    "club": "RSCA",
+
+    "sport": "Voetbal",
+
+    "stad": "Anderlecht",
+
+    "opgericht": 1908,
+
+    "aantal_leden": 30000
+
+  },
+
+  {
+
+    "id": 3,
+
+    "club": "Telenet Giants",
+
+    "sport": "Basketbal",
+
+    "stad": "Antwerpen",
+
+    "opgericht": 1995,
+
+    "aantal_leden": 1500
+
+  },
+
+  {
+
+    "id": 4,
+
+    "club": "Volley Haasrode Leuven",
+
+    "sport": "Volleybal",
+
+    "stad": "Leuven",
+
+    "opgericht": 2008,
+
+    "aantal_leden": 900
+
+  },
+
+  {
+
+    "id": 5,
+
+    "club": "Limburg Shotguns",
+
+    "sport": "American Football",
+
+    "stad": "Beringen",
+
+    "opgericht": 2007,
+
+    "aantal_leden": 120
+
+  }
+
+]
